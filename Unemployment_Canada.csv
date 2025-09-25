@@ -1,0 +1,141 @@
+Province,Year,UnemploymentRate
+Ontario,2010,6.1
+Ontario,2011,7.1
+Ontario,2012,7.1
+Ontario,2013,7.6
+Ontario,2014,6.5
+Ontario,2015,6.5
+Ontario,2016,6.5
+Ontario,2017,6.2
+Ontario,2018,5.0
+Ontario,2019,7.5
+Ontario,2020,7.4
+Ontario,2021,5.8
+Ontario,2022,6.6
+Ontario,2023,6.4
+Quebec,2010,7.9
+Quebec,2011,6.7
+Quebec,2012,6.9
+Quebec,2013,5.8
+Quebec,2014,6.5
+Quebec,2015,6.9
+Quebec,2016,6.0
+Quebec,2017,7.1
+Quebec,2018,6.4
+Quebec,2019,6.6
+Quebec,2020,6.4
+Quebec,2021,8.1
+Quebec,2022,6.8
+Quebec,2023,6.1
+Alberta,2010,5.0
+Alberta,2011,5.4
+Alberta,2012,4.3
+Alberta,2013,5.9
+Alberta,2014,7.1
+Alberta,2015,6.0
+Alberta,2016,5.3
+Alberta,2017,5.8
+Alberta,2018,4.5
+Alberta,2019,4.1
+Alberta,2020,5.7
+Alberta,2021,4.8
+Alberta,2022,4.2
+Alberta,2023,4.6
+British Columbia,2010,7.9
+British Columbia,2011,7.4
+British Columbia,2012,7.2
+British Columbia,2013,8.1
+British Columbia,2014,8.4
+British Columbia,2015,8.4
+British Columbia,2016,7.1
+British Columbia,2017,7.5
+British Columbia,2018,7.9
+British Columbia,2019,8.4
+British Columbia,2020,7.4
+British Columbia,2021,7.6
+British Columbia,2022,6.9
+British Columbia,2023,6.9
+Manitoba,2010,9.2
+Manitoba,2011,8.9
+Manitoba,2012,7.9
+Manitoba,2013,8.6
+Manitoba,2014,9.3
+Manitoba,2015,9.2
+Manitoba,2016,9.7
+Manitoba,2017,8.9
+Manitoba,2018,11.0
+Manitoba,2019,8.0
+Manitoba,2020,8.4
+Manitoba,2021,8.6
+Manitoba,2022,7.7
+Manitoba,2023,9.4
+Saskatchewan,2010,7.4
+Saskatchewan,2011,7.8
+Saskatchewan,2012,8.6
+Saskatchewan,2013,7.2
+Saskatchewan,2014,7.0
+Saskatchewan,2015,7.2
+Saskatchewan,2016,8.2
+Saskatchewan,2017,7.8
+Saskatchewan,2018,7.2
+Saskatchewan,2019,7.9
+Saskatchewan,2020,7.6
+Saskatchewan,2021,8.2
+Saskatchewan,2022,7.1
+Saskatchewan,2023,7.3
+Nova Scotia,2010,7.0
+Nova Scotia,2011,5.9
+Nova Scotia,2012,4.3
+Nova Scotia,2013,6.4
+Nova Scotia,2014,5.9
+Nova Scotia,2015,5.9
+Nova Scotia,2016,6.5
+Nova Scotia,2017,6.0
+Nova Scotia,2018,6.3
+Nova Scotia,2019,4.7
+Nova Scotia,2020,5.5
+Nova Scotia,2021,7.1
+Nova Scotia,2022,6.1
+Nova Scotia,2023,5.0
+New Brunswick,2010,6.5
+New Brunswick,2011,8.2
+New Brunswick,2012,6.4
+New Brunswick,2013,6.7
+New Brunswick,2014,6.5
+New Brunswick,2015,5.7
+New Brunswick,2016,7.3
+New Brunswick,2017,7.0
+New Brunswick,2018,7.1
+New Brunswick,2019,5.9
+New Brunswick,2020,7.5
+New Brunswick,2021,5.5
+New Brunswick,2022,6.9
+New Brunswick,2023,8.0
+Newfoundland and Labrador,2010,5.1
+Newfoundland and Labrador,2011,6.1
+Newfoundland and Labrador,2012,6.6
+Newfoundland and Labrador,2013,6.1
+Newfoundland and Labrador,2014,5.5
+Newfoundland and Labrador,2015,5.2
+Newfoundland and Labrador,2016,5.9
+Newfoundland and Labrador,2017,4.6
+Newfoundland and Labrador,2018,5.8
+Newfoundland and Labrador,2019,4.8
+Newfoundland and Labrador,2020,5.9
+Newfoundland and Labrador,2021,5.3
+Newfoundland and Labrador,2022,5.2
+Newfoundland and Labrador,2023,4.8
+Prince Edward Island,2010,6.1
+Prince Edward Island,2011,4.7
+Prince Edward Island,2012,5.7
+Prince Edward Island,2013,6.5
+Prince Edward Island,2014,4.4
+Prince Edward Island,2015,5.7
+Prince Edward Island,2016,5.7
+Prince Edward Island,2017,6.1
+Prince Edward Island,2018,4.7
+Prince Edward Island,2019,4.6
+Prince Edward Island,2020,5.9
+Prince Edward Island,2021,5.8
+Prince Edward Island,2022,5.7
+Prince Edward Island,2023,5.8
